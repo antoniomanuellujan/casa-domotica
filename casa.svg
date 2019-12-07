@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="102.0mm" height="102.0mm" viewBox="0 0 102.0 102.0" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Box" transform="translate(1.000000,101.000000) scale(1,-1)">
+<path id="Box_f0000"  d="M 0.0 100.0 L 0.0 0.0 L 0.0 0.0 L 0.0 100.0 L 0.0 100.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Box_f0001"  d="M 100.0 0.0 L 100.0 0.0 L 100.0 100.0 L 100.0 100.0 L 100.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Box_f0002"  d="M 0.0 0.0 L 0.0 0.0 L 100.0 0.0 L 100.0 0.0 L 0.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Box_f0003"  d="M 100.0 100.0 L 0.0 100.0 L 0.0 100.0 L 100.0 100.0 L 100.0 100.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Box_f0004"  d="M 100.0 0.0 L 0.0 0.0 L 0.0 100.0 L 100.0 100.0 L 100.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Box_f0005"  d="M 0.0 100.0 L 0.0 0.0 L 100.0 0.0 L 100.0 100.0 L 0.0 100.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<title>Cubo</title>
+</g>
+</svg>
